@@ -1,0 +1,26 @@
+{
+  "name": "onchainkit-security-suite",
+  "version": "0.1.0",
+  "description": "Security-focused hooks and components for OnchainKit",
+  "main": "src/index.ts",
+  "keywords": [
+    "onchainkit",
+    "base",
+    "ethereum",
+    "security",
+    "web3",
+    "defi"
+  ],
+  "author": "lau90eth",
+  "license": "MIT",
+  "peerDependencies": {
+    "@coinbase/onchainkit": ">=0.30.0",
+    "react": ">=18.0.0",
+    "viem": ">=2.0.0",
+    "wagmi": ">=2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lau90eth/onchainkit-security-suite"
+  }
+}
