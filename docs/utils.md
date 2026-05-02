@@ -35,3 +35,25 @@ import { isInfiniteApproval } from '../src/utils/isInfiniteApproval';
 isInfiniteApproval(MaxUint256)  // true
 isInfiniteApproval(1000n)       // false
 ```
+
+## getRiskColor
+
+Returns Tailwind color classes for a risk level.
+
+```ts
+import { getRiskColor } from '../src/utils/getRiskColor';
+
+const { bg, text, border } = getRiskColor('high');
+// bg: 'bg-red-50', text: 'text-red-700', border: 'border-red-200'
+```
+
+## getRiskLabel
+
+Returns human-readable label and emoji for a risk level.
+
+```ts
+import { getRiskLabel } from '../src/utils/getRiskLabel';
+
+const { emoji, label, description } = getRiskLabel('high');
+// emoji: '🔴', label: 'High Risk', description: '...'
+```
