@@ -9,6 +9,7 @@
 - `useTokenAllowance` — ERC-20 allowance auditing
 - `useRevokeAllowance` — one-click allowance revocation
 - `useGasEstimator` — real-time gas with spike detection
+- `useTransactionSimulation` — simulate transactions before signing
 - `<SecurityCheck />` — visual security summary component
 
 ### Examples

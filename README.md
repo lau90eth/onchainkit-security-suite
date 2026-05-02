@@ -14,6 +14,7 @@ Built as companion PRs to `coinbase/onchainkit` — usable today while PRs are i
 | `useTokenAllowance` | Audit ERC-20 approvals | [#2635](https://github.com/coinbase/onchainkit/pull/2635) |
 | `useRevokeAllowance` | Revoke allowances in one click | [#2635](https://github.com/coinbase/onchainkit/pull/2635) |
 | `useGasEstimator` | Real-time gas estimation with spike detection | [#2638](https://github.com/coinbase/onchainkit/pull/2638) |
+| `useTransactionSimulation` | Simulate transactions before signing | [#2639](https://github.com/coinbase/onchainkit/pull/2639) |
 
 ## Components
 

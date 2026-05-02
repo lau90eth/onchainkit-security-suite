@@ -13,3 +13,4 @@ export { SecurityCheck } from './components/SecurityCheck';
 export { formatFee } from './utils/formatFee';
 export { shortenAddress } from './utils/shortenAddress';
 export { isInfiniteApproval } from './utils/isInfiniteApproval';
+export { useTransactionSimulation } from './hooks/useTransactionSimulation';

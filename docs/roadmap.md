@@ -12,6 +12,7 @@ Nothing yet — PRs in review.
 - `useTokenAllowance` + `useRevokeAllowance` — [#2635](https://github.com/coinbase/onchainkit/pull/2635)
 - `<SecurityCheck />` — [#2636](https://github.com/coinbase/onchainkit/pull/2636)
 - `useGasEstimator` — [#2638](https://github.com/coinbase/onchainkit/pull/2638)
+- `useTransactionSimulation` — [#2639](https://github.com/coinbase/onchainkit/pull/2639)
 
 ## Planned 📋
 
