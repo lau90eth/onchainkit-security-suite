@@ -5,3 +5,8 @@ export { isInfiniteApproval } from './isInfiniteApproval';
 export { isContractAddress } from './isContractAddress';
 export { getRiskColor } from './getRiskColor';
 export { getRiskLabel } from './getRiskLabel';
+export { formatGasPrice } from './formatGasPrice';
+export { isContractAddress } from './isContractAddress';
+export { isLikelyProxy, EIP1967_IMPLEMENTATION_SLOT } from './detectProxy';
+export { parseRevertReason } from './parseRevertReason';
+export { estimateWaitTime } from './estimateWaitTime';
