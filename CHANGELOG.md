@@ -10,6 +10,7 @@
 - `useRevokeAllowance` — one-click allowance revocation
 - `useGasEstimator` — real-time gas with spike detection
 - `useTransactionSimulation` — simulate transactions before signing
+- `useWalletRisk` — analyze destination wallet risk before sending
 - `<SecurityCheck />` — visual security summary component
 
 ### Examples

@@ -13,6 +13,7 @@ Nothing yet — PRs in review.
 - `<SecurityCheck />` — [#2636](https://github.com/coinbase/onchainkit/pull/2636)
 - `useGasEstimator` — [#2638](https://github.com/coinbase/onchainkit/pull/2638)
 - `useTransactionSimulation` — [#2639](https://github.com/coinbase/onchainkit/pull/2639)
+- `useWalletRisk` — [#2640](https://github.com/coinbase/onchainkit/pull/2640)
 
 ## Planned 📋
 
